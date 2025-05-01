@@ -4,6 +4,7 @@
 Detect plant types in your images using AI. Powered by Roboflow.
 
 **Created by Team SnapFlora**  
+
 👩‍💻 VANDANA  SHARMA (roll no: 2401010285)
 
 👩‍💻 SAKSHI  GARG (roll no: 2401010178)
