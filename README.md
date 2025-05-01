@@ -84,5 +84,11 @@ Use the sidebar to adjust settings like image quality and confidence threshold, 
 * [OpenCV](https://opencv.org/): For webcam capture.
 * [Inference SDK](https://docs.roboflow.com/inference/python): For interacting with the Roboflow API.
 
-  ## Video Presentation Of Project
+  ## 📽️Video Presentation Of Project
   
+
+
+https://github.com/user-attachments/assets/e1b553a9-9502-497c-a317-dad933352ecb
+
+## 🔗For Full Video Go to Drive Link
+[Link]()
