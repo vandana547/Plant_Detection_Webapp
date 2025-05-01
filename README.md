@@ -93,3 +93,18 @@ https://github.com/user-attachments/assets/e1b553a9-9502-497c-a317-dad933352ecb
 
 ## 🔗For Full Video Go to Drive Link
 [Link]()
+
+##  🔁WorkFlow
+
+'''mermaid
+flowchart LR
+    A[User Input] --> B{Input Method}
+    B -->|Upload Image| C[Load Image File]
+    B -->|Use Webcam| D[Capture Image from Webcam]
+    C --> E[Save Temp Image]
+    D --> E
+    E --> F[Send to Roboflow API for Prediction]
+    F --> G[Receive Predictions]
+    G --> H[Draw Bounding Boxes on Image]
+    H --> I[Display Results on Streamlit UI]
+'''
