@@ -96,7 +96,7 @@ https://github.com/user-attachments/assets/e1b553a9-9502-497c-a317-dad933352ecb
 
 ##  🔁WorkFlow
 
-'''mermaid
+```mermaid
 flowchart LR
     A[User Input] --> B{Input Method}
     B -->|Upload Image| C[Load Image File]
@@ -107,4 +107,4 @@ flowchart LR
     F --> G[Receive Predictions]
     G --> H[Draw Bounding Boxes on Image]
     H --> I[Display Results on Streamlit UI]
-'''
+```
