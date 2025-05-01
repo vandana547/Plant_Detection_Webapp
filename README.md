@@ -20,7 +20,7 @@ Follow these steps to get the Plant Type Detector up and running on your local m
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your_repository_url>
+    git clone <[your_repository_url](https://github.com/vandana547/Plant_Detection_Webapp.git)>
     cd Plant-Type-Detector
     ```
 
